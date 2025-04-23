@@ -22,10 +22,10 @@
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali,linux" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity,git,github,bitbucket,figma,windows,linux" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,bootstrap,aws,mysql" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,sqlite,mysql" />
     </p>
 </div>
 
