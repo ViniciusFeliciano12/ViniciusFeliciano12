@@ -4,21 +4,15 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+Meu+nome+é+Ryan+Rodrigues!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+Meu+nome+é+Vinicius+Feliciano!)](https://git.io/typing-svg)
 
 <br>
 
 <!-- Redes Sociais com tamanho um pouco maior -->
-<a href="https://instagram.com/ryanrodriguexs">
+<a href="https://instagram.com/vinicius_feliciano12">
   <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
 </a>
-<a href="https://discord.gg/gibrasil">
-  <img src="https://img.shields.io/badge/Discord-000000.svg?style=flat&logo=discord&logoColor=00FF7F" alt="Discord"/>
-</a>
-<a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=flat&logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
-</a>
-<a href="mailto:yryurodriguess@gmail.com">
+<a href="mailto:viniciusfeliciano12345@hotmail.com">
   <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=00FF7F" alt="Email"/>
 </a>
 
