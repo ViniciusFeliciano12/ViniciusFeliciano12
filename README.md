@@ -40,8 +40,7 @@
             </td>
         </tr>
     </table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ViniciusFeliciano12&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ViniciusFeliciano12&theme=github-dark-blue&no-frame=true&no-bg=true&margin-w=10" />
 
 ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusFeliciano12&theme=github-compact&bg_color=000000&color=178dc0&line=44bbee&point=ffffff&area=true&hide_border=true)
 
