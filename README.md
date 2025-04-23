@@ -4,16 +4,16 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+Meu+nome+é+Vinicius+Feliciano!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=178dc0&size=35&center=true&vCenter=true&width=1000&lines=+Vinicius+Feliciano)](https://git.io/typing-svg)
 
 <br>
 
 <!-- Redes Sociais com tamanho um pouco maior -->
 <a href="https://instagram.com/vinicius_feliciano12">
-  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=178dc0" alt="Instagram"/>
 </a>
 <a href="mailto:viniciusfeliciano12345@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=00FF7F" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=178dc0" alt="Email"/>
 </a>
 
 </div>
@@ -33,7 +33,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFeliciano12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFeliciano12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=178dc0&text_color=FFFFFF&hide=contribs" height="165"/>
             </td>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFeliciano12&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
@@ -43,7 +43,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ViniciusFeliciano12&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 
-![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusFeliciano12&theme=github-compact&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true)
+![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusFeliciano12&theme=github-compact&bg_color=000000&color=178dc0&line=0effa3&point=ffffff&area=true&hide_border=true)
 
 </div>
 
