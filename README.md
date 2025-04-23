@@ -22,7 +22,7 @@
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity,git,github,bitbucket,figma,windows,linux" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity,git,github,bitbucket,figma,windows" />
     </p>
     <p>
         <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,sqlite,mysql" />
