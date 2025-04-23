@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/xNp7Wys.jpeg" width="500" alt="Rises of moon">
+    <img src="https://i.gifer.com/7k5e.gif" width="500" alt="Rises of moon">
 </div>
 
 <div align="center">
