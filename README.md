@@ -47,10 +47,4 @@
 
 </div>
 
-<img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
-
-<div align="center">
-  <p style="font-size: 1.2em; color: #6a1b9a;">
-    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> :green_book:
-  </p>
-</div>
+<img align="right" src="https://i.imgur.com/x1ioxQ4.png" alt="Near_DN" style="min-width: 100px; max-width: 100px; width: 100px;">
